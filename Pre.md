@@ -1,0 +1,10 @@
+## Short comings:  
+parameters: 140M+  
+Speed
+
+
+## Advantages
+A strong ability of detecting small objects.(To be tested)  
+从图像中提取CNN特征，VGG模型是首选算法, due to its awesome performance in transfer learning and mutil-task learing...
+
+
