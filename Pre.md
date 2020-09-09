@@ -1,6 +1,6 @@
 ## Short comings:  
-parameters: 140M+  
-Speed
+Parameters: 140M+  
+Speed(Key : **Calculating resources**)
 
 
 ## Advantages
